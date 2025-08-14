@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm Full Stack Autonomous Engineer<br>🔭 I'm working Sample Based Planners<br>🌱 I’m currently learning about SLAM<br>💬 Ask me about Autonmous Stuff, Robotics, Industrial Autnomation<br>⚡ Fun fact I don't like learning through videos (PS: its Boring)
-
+I'm an Autonomous Engineer🔭<br>
+A glorified term for: <br> 
+**_If a silicon thingy exsists there is enough code in the internet to make it sentient!_**  and that's my job.<br>
+Sublte way of saying that I integrate not create.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashas-katte/) 
